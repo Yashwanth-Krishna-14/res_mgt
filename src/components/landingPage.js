@@ -25,7 +25,7 @@ const LandingPage = () => {
       </div>
 
       {/* Featured Items */}
-      <div className="flex flex-col md:flex-row items-center justify-between p-6 bg-gray-100">
+      <div className="flex flex-col md:flex-row items-center justify-between p-6 bg-black-300">
         <FeaturedItem 
           image={burgerImage} 
           title="Special Menu Beef Burger" 

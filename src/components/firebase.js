@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage, ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAK9_JhIKeusAiDDAS1CphtX10arT5wrBo",
-  authDomain: "resmgt-68bc6.firebaseapp.com",
-  projectId: "resmgt-68bc6",
-  storageBucket: "resmgt-68bc6.appspot.com",
-  messagingSenderId: "30021522932",
-  appId: "1:30021522932:web:f744886ceef4b7230bd5a1",
-  measurementId: "G-9WBXF2KDFG"
+  apiKey: "AIzaSyCUebQAUvNr2rzwiWONBiDsvr2Xye4-u3o",
+  authDomain: "res-mgt-ck.firebaseapp.com",
+  projectId: "res-mgt-ck",
+  storageBucket: "res-mgt-ck.firebasestorage.app",
+  messagingSenderId: "769323464838",
+  appId: "1:769323464838:web:f6cdd9a0f2657816377907",
+  measurementId: "G-S48ZGGNQE8"
 };
 
 const app = initializeApp(firebaseConfig);
